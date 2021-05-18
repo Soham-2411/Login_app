@@ -1,0 +1,7 @@
+#Sun May 09 10:25:38 IST 2021
+base.0=/home/soham/flutter_projects/login_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/soham/flutter_projects/login_app/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
